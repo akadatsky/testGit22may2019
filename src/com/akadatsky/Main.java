@@ -10,4 +10,9 @@ public class Main {
     private static void test() {
         System.out.println("Hello git");
     }
+
+    private static void test2() {
+        System.out.println("Hello git");
+    }
+
 }
