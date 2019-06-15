@@ -15,4 +15,8 @@ public class Main {
         System.out.println("Hello git");
     }
 
+    private static void test3() {
+        System.out.println("adfasdf ");
+    }
+
 }
